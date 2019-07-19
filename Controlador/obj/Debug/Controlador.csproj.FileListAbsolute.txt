@@ -1,0 +1,9 @@
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\Controlador\bin\Debug\Controlador.dll
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\Controlador\bin\Debug\Controlador.pdb
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\Controlador\bin\Debug\Modelo.dll
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\Controlador\bin\Debug\Modelo.pdb
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\Controlador\obj\Debug\Controlador.dll
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\Controlador\obj\Debug\Controlador.pdb
