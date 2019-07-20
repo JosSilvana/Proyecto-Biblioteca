@@ -1,0 +1,16 @@
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\bin\Debug\Controlador.dll
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\bin\Debug\Modelo.dll
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\bin\Debug\Controlador.pdb
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\bin\Debug\Modelo.pdb
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\obj\Debug\Biblioteca.Form1.resources
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\JOSSELYN-R\source\repos\Biblioteca\obj\Debug\Biblioteca.Usuarios.resources
